@@ -1,0 +1,2 @@
+This demonstrates the confidentiality part of the CIA Triad as it only allows access to those who have should be granted privileges. If the Admin signs into the Admin portal, they are allowed entry while those that are users or not in the system, at all, are not granted entry. The same goes for user and gaining entry to the user portal. 
+This program is a basic, bare bones example of confidentiality in practice making sure only those who are permitted have access.
